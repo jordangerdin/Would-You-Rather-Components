@@ -78,4 +78,8 @@ export default {
 .body {
     background-color: #F5FAFF
 }
+
+#answers{
+    text-align: center;
+}
 </style>
